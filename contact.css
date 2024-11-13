@@ -1,0 +1,22 @@
+.coformContainer{
+    display: flex;
+    width: 75%;
+    margin: 0 auto;
+    padding-bottom: 150px;
+
+}
+.COfORMSECTION{
+    padding-top: 85px;
+}
+.formsection1{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.formsection2{
+    padding-left: 150px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
